@@ -1,0 +1,14 @@
+name: data_trans_env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - sklearn-contrib-lightning
+  - empiricaldist
+  - conda=23.5.0
+  - cookiecutter
+prefix: /home/compu_dell_ubuntu_01/anaconda3/envs/data_trans_env
